@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Евгений\111\VisualStudioProjects\RenameMusic\RenameMusic\Source.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Евгений\111\VisualStudioProjects\RenameMusic\RenameMusic\Source.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+  RenameMusic.vcxproj -> D:\Евгений\111\VisualStudioProjects\RenameMusic\Debug\RenameMusic.exe
